@@ -8,7 +8,7 @@
 ## Setup
 
 ### Python
-<a href="https://www.continuum.io/anaconda">Anaconda</a>,
+<a href="https://www.anaconda.com/download/">Anaconda</a>,
 an all-in-one installer, is recommended.
 
 Regardless of how you choose to install it,
@@ -26,7 +26,7 @@ and below, are not).
 #### Windows
 <a href="https://www.youtube.com/watch?v=xxQ0mzZ8UvA">Video Tutorial</a>
 <ol>
-<li>Open <a href="http://continuum.io/downloads">http://continuum.io/downloads</a> with your web browser.</li>
+<li>Open <a href="https://www.anaconda.com/download/">http://continuum.io/downloads</a> with your web browser.</li>
 <li>Download the Python 3 installer for Windows.</li>
 <li>Install Python 3 using all of the defaults for installation <em>except</em> make sure to check <strong>Make Anaconda the default Python</strong>.</li>
 </ol>
