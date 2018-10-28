@@ -39,19 +39,28 @@ A list to the notes from class can be found [here](https://github.com/chendaniel
 
 ### Day 2
 
-- [Project Template]()
+- [Project Template](https://github.com/chendaniely/2018-10-python2/tree/master/example_project)
 	- Basic folder structure for organizing analysis projects
 	- Creating Modules
 	- Importing your own modules
 	- Reloading modules
-- [Timeseries]()
-	- Working with datetimes objects
-	- Calculating time deltas
-	- Creating time ranges
-	- Creating time offsets
-- [Fitting models]()
+	- Running script from command line
+- [Faceted Plots](https://github.com/chendaniely/2018-10-python2/blob/master/notebooks/20-facets.ipynb)
+	- Creating facets from seaborn
+	- Manually creating facets using FacetGrid
+- [Regular Expressions](https://github.com/chendaniely/2018-10-python2/blob/master/notebooks/21-strings_regex.ipynb)
+	- Strings
+	- Regular expressions in python
+- [Lambda Functions](https://github.com/chendaniely/2018-10-python2/blob/master/notebooks/22-lambda.ipynb)
+- [More Groupby](https://github.com/chendaniely/2018-10-python2/blob/master/notebooks/23-groupby.ipynb)
+	- Aggregating multiple functions
+	- Different functions across multiple columns
+- [Intro to multiindex](https://github.com/chendaniely/2018-10-python2/blob/master/notebooks/24-multiindex_level.ipynb)
+	- Using the levels keyword to work with multiindex
+- [Fitting models](https://github.com/chendaniely/2018-10-python2/blob/master/notebooks/25-models.ipynb)
 	- scikitlearn
 	- statsmodels
 	- linear and logistic models
-- [Capstone]()
+- [Capstone](https://github.com/chendaniely/2018-10-python2/blob/master/notebooks/99-credit_question.ipynb)
 	- Predicting credit defaults
+	- [Solution](https://github.com/chendaniely/2018-10-python2/blob/master/notebooks/99-credit_solution.ipynb)
